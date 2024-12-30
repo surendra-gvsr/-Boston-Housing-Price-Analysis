@@ -1,8 +1,4 @@
-# ECO 520 Business Analytics II
-# Assignment-2
-# Instructor: Peter Bondarenko
-#File Submitted By: Venkata Surendra Reddy G
-#Student Id: 2181389
+
 
 # Install packages and load libraries
 library(stargazer)
